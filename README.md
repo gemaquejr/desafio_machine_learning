@@ -39,4 +39,4 @@ Fiz login no Azure Machine Learning studio utilizando minha conta da Microsoft e
 
 - ⚡ Visualizei o meu workspace:
 
-No Azure Machine Learning studio, visualizei o workspace recém-criado. Caso contrário, selecionei "Todos os workspaces" no menu à esquerda e, em seguida, selecionei o workspace que acabei de criar.
+No Azure Machine Learning studio, visualizei o workspace recém-criado e, em seguida, selecionei o workspace que acabei de criar.
